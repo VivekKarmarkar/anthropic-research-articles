@@ -14,6 +14,13 @@ This repo collects three Anthropic research articles exploring AI capabilities i
 | Long-running Claude for scientific computing | [PDF](src_pdfs/) | [MP3](claude_code_generated_audio/long_running_claude_scientific.mp3) | [M4A](notebookLM_outputs/notebookLM_audio/Building_physics_solvers_with_autonomous_AI_agents.m4a) |
 | Vibe physics: The AI grad student | [PDF](src_pdfs/) | [MP3](claude_code_generated_audio/vibe_physics_ai_grad_student.mp3) | [M4A](notebookLM_outputs/notebookLM_audio/Two_Year_Physics_Research_in_Two_Weeks.m4a) |
 
+### NotebookLM Videos
+
+| Video | File |
+|-------|------|
+| Architecting Multi-Day Agents for Scientific Computing | [MP4](notebookLM_outputs/notebookLM_video/Architecting_Multi-Day_Agents_for_Scientific_Computing.mp4) |
+| When AI Cheats at Physics | [MP4](notebookLM_outputs/notebookLM_video/When_AI_Cheats_at_Physics.mp4) |
+
 ## Project Structure
 
 ```
